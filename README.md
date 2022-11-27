@@ -29,3 +29,13 @@ Jika memilih opsi R = Melihat semua data dan ingin menambah nilai data teman mak
 <img width="948" alt="Screenshot 2022-11-27 123333" src="https://user-images.githubusercontent.com/115815582/204120883-50bf1a82-7d76-481e-aba4-835253d76740.png">
 
 Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
+
+Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
+
+Jika memilih opsi F = Mencari data maka akan tampil sebagai berikut :
+
+Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+
+sekian. seperti itulah program crud sederhana yang saya buat
+
+Mohon maaf jika ada kesalahan, Terima kasih
