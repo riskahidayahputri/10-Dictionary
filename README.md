@@ -29,7 +29,7 @@ Jika memilih opsi R = Melihat semua data dan ingin menambah nilai data teman mak
 <img width="948" alt="Screenshot 2022-11-27 123333" src="https://user-images.githubusercontent.com/115815582/204120883-50bf1a82-7d76-481e-aba4-835253d76740.png">
 
 Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
-<img width="854" alt="Screenshot 2022-11-27 160340" src="https://user-images.githubusercontent.com/115815582/204127898-94b69860-d0cd-419b-be84-da9b04502528.png">
+<img width="956" alt="Screenshot 2022-11-27 161905" src="https://user-images.githubusercontent.com/115815582/204128057-24002147-bf1c-4aa2-8534-2f0b4fac0967.png">
 
 Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
 <img width="947" alt="Screenshot 2022-11-27 162019" src="https://user-images.githubusercontent.com/115815582/204127925-dbadf25b-95f2-4916-a65e-67114808eeae.png">
