@@ -18,8 +18,14 @@ dan berikut hasilnya :
 
 4.  Lalu buka file Praktikum.py dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal python Praktikum.py:
 
-![carbon (1)](https://user-images.githubusercontent.com/115815582/204120475-231a77da-4900-419c-8176-feeacb00e01f.png)
+![carbon (2)](https://user-images.githubusercontent.com/115815582/204120595-4baa659c-01fb-41d7-ad5d-ec6b8f4678db.png)
 
 dan Berikut hasilnya :
 
 Jika memilih opsi C = Menambah data maka akan tampil sebagai berikut :
+<img width="955" alt="Screenshot 2022-11-27 122714" src="https://user-images.githubusercontent.com/115815582/204120726-83b4eea1-a891-41a2-a85b-846559700fcc.png">
+
+Jika memilih opsi R = Melihat semua data dan ingin menambah nilai data teman maka akan tampil sebagai berikut :
+<img width="948" alt="Screenshot 2022-11-27 123333" src="https://user-images.githubusercontent.com/115815582/204120883-50bf1a82-7d76-481e-aba4-835253d76740.png">
+
+Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
