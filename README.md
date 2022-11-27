@@ -1,6 +1,6 @@
 # Latihan Dictionary pada python membuat program crud sederhana
 
-# Repository ini dibuat sebagai tugas kuliah bahasa pemrograman
+ Repository ini dibuat sebagai tugas kuliah bahasa pemrograman
 
 1. Pertama kita buat buat folder 10-Dictionary dan didalam kita buat file bernama Latihan1.py dan Praktikum.py.
 <img width="210" alt="Screenshot 2022-11-26 101116" src="https://user-images.githubusercontent.com/115815582/204120369-04382a9c-1acf-454d-9d21-099e32c49038.png">
@@ -29,12 +29,16 @@ Jika memilih opsi R = Melihat semua data dan ingin menambah nilai data teman mak
 <img width="948" alt="Screenshot 2022-11-27 123333" src="https://user-images.githubusercontent.com/115815582/204120883-50bf1a82-7d76-481e-aba4-835253d76740.png">
 
 Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
+<img width="854" alt="Screenshot 2022-11-27 160340" src="https://user-images.githubusercontent.com/115815582/204127898-94b69860-d0cd-419b-be84-da9b04502528.png">
 
 Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
+<img width="947" alt="Screenshot 2022-11-27 162019" src="https://user-images.githubusercontent.com/115815582/204127925-dbadf25b-95f2-4916-a65e-67114808eeae.png">
 
 Jika memilih opsi F = Mencari data maka akan tampil sebagai berikut :
+<img width="929" alt="Screenshot 2022-11-27 162050" src="https://user-images.githubusercontent.com/115815582/204127949-ae12b211-6638-46a3-84fe-a7381a231102.png">
 
 Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+<img width="938" alt="Screenshot 2022-11-27 162120" src="https://user-images.githubusercontent.com/115815582/204127956-85bed8eb-27f4-4268-ab36-aab5ec5ea34e.png">
 
 sekian. seperti itulah program crud sederhana yang saya buat
 
